@@ -36,3 +36,41 @@ Para começar, vamos mostrar como adicionar JavaScript básico à sua página, c
 
 Para começar, vamos baixar a estrutura básica de uma página em HTML para executarmos no navegador.
 - [Código fonte](src)
+
+
+## Bases da linguagem
+Vamos explicar algumas funcionalidades fundamentais da linguagem JavaScript, para permitir uma melhor compreensão de como a mesma funciona. Note que estas funcionalidades são comuns a todas as linguagens de programação, por isso, se dominar estes fundamentos, estará no bom caminho para programar praticamente qualquer coisa!
+
+Importante: Neste artigo, tente introduzir os exemplos de código na consola JavaScript para ver o que acontece. Para mais detalhes sobre a consola JavaScript, veja o artigo Descobrir as ferramentas de desenvolvimentos do navegador.
+
+### Variáveis
+Variáveis são "recipientes" em que pode guardar valores. Comece por declarar a variável com a palavra-chave var, seguida de qualquer nome que lhe queira dar:
+
+```
+var minhaVariavel;
+```
+
+> Nota: O ponto e vírgula indica onde termina a instrução; apenas é estritamente necessário quando pretente separar instruções numa só linha. Contudo, algumas pessoas acham que é boa prática colocar este sinal no fim de cada instrução. 
+
+> Nota: O nome da varíavel pode ser quase tudo, mas há restrições (veja este artigo sobre regras para dar nome às variáveis (inglês)). Se não tem a certeza, pode verificar o nome da sua varíavel para assegurar que é válido.
+
+> Nota: JavaScript é sensível a maiúsculas — minhaVariavel é uma variável diferente de minhavariavel. Se tiver encontrar problemas depois de escrever p código, verifique as maiúsculas e minúsculas!
+
+Depois de declarar a variável, pode atribuir-lhe um valor:
+```
+minhaVariavel = 'Bob';
+```
+Pode efetuar ambas as operações com uma só instrução:
+```
+var myVariable = 'Bob';
+```
+O valor é obtido simplesmente escrevendo o nome da variável:
+```
+myVariable;
+```
+Depois de lhe dar um valor, pode optar por mudá-lo mais tarde:
+
+```
+var minhaVariavel = 'Bob';
+minhaVariavel = 'Steve';
+```

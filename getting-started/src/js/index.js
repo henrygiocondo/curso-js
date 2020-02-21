@@ -1,2 +1,4 @@
-var paragraph = document.getElementById('paragrafo');
-paragraph.textContent = 'Olá mundo!';
+var elParagraph = document.getElementById('paragrafo');
+var texto = 'Olá mundo!';
+
+elParagraph.textContent = texto;
