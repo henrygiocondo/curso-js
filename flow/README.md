@@ -49,4 +49,27 @@ myFunction();
 ( condition ) ? run this code : run this code instead
 ```
 ### Fazendo loopings
+  
+  ```
+  text += cars[0] + "<br>";
+  text += cars[1] + "<br>";
+  text += cars[2] + "<br>";
+  text += cars[3] + "<br>";
+  text += cars[4] + "<br>";
+  text += cars[5] + "<br>";
+```
+
+```
+for (i = 0; i < cars.length; i++) {
+  text += cars[i] + "<br>";
+}
+```
+
+  - for - percorre um bloco de código um certo número de vezes
+  - for/in - percorre as propriedades de um objeto
+  - for/of - percorre os valores de um objeto
+  - while - percorre um bloco de código enquanto a condição é verdadeira
+  - do/while - percorre um bloco de código enquanto a condição é verdadeira
+  - 
   - Fibo
+

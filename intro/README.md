@@ -21,3 +21,7 @@
   ECMAScript só é usado para se referir às versões da linguagem.
 
 ![](https://miro.medium.com/max/2984/1*XzKcB3WRsVg3K2TapBbghg.png)
+
+[LinkedIn](https://www.linkedin.com/feed/)
+
+[RESN](https://resn.co.nz/)
