@@ -28,6 +28,7 @@ Para começar, vamos mostrar como adicionar JavaScript básico à sua página, c
 
 Para começar, vamos baixar a estrutura básica de uma página em HTML para executarmos no navegador.
 - [Código fonte](src)
+- [Código fonte (zip)](src.zip)
 
 
 ## Bases da linguagem
