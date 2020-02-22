@@ -1,4 +1,21 @@
 # Fluxo de dados
+### Funções
+  - Funções permitem que você armazene um bloco de código, que faça uma determinada tarefa e que possa ser chamado sempre que necessário utilizando um curto comando.
+  - Funções tornam o seu código reutilizável.
+  ```
+  function myFunction() {
+  alert('hello');
+}
+
+myFunction();
+// calls the function once
+```
+  - Anonymous functions
+  - Parâmetros nas funções
+  - Escopo da função
+    - let
+    - const
+    - var
 ### Tomando decisões
   - if...else (else if)
   ```
